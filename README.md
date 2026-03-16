@@ -37,6 +37,7 @@ When no fire is detected:
 
 ## Project Structure
 fire-detection-alarm-arduino
+
 │
 
 ├── code/fire_alarm.ino

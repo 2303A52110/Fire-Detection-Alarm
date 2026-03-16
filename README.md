@@ -4,9 +4,13 @@
 This project implements a fire detection alarm system using Arduino Uno and a flame sensor. The system detects the presence of fire and activates a buzzer alarm and LED indicators to provide an early warning and improve safety.
 
 ## 🎯 Objectives
+
 -Detect fire using a flame sensor
+
 -Provide instant alerts using buzzer
+
 -Indicate system status using LEDs
+
 -Demonstrate embedded systems and sensor integration
 
 ## 🛠️ Components

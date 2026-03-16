@@ -38,11 +38,15 @@ When no fire is detected:
 ## Project Structure
 fire-detection-alarm-arduino
 │
+
 ├── code/fire_alarm.ino
+
 └── circuit/
 
 ## 📊 Results
 -Successfully detected fire using a flame sensor
+
 -Triggered buzzer and LED alerts
+
 -Provided a low-cost fire safety solution
 
